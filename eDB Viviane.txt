@@ -1,0 +1,22 @@
+<html>
+<body>
+
+<img src="Julinho.jpeg" width="100"
+
+<h1>Nós e a nossa Escola</h1>
+<h2>EMEB JÚLIO DE GRAMMONT</h2> 
+<h3>Professora PAPP Valquiria </h3> <img src="Valzinha.jpeg" width="100"
+<h3>Professora Viviane Lucy de Castro </h3> <img src="Vivi.jpeg" width="100"
+<p> Estou na EMEB Júlio de Grammont desde 2017, junto com parceria da professora Valquiria levamos o uso das tecnologias da melhor maneira possivel aos nossos alunos, sempre aprimorando nossos conhecimentos e integrando com as demais atividades do cotidiano escolar.</p>
+
+<p>Este é o link do blog da nossa escola: <a
+href="https://labjgrammont.wixsite.com/blog</a></p>
+
+<h2>Para nosso projeto de robótica vamos precisar de alguns materiais:</h2>
+<p>
+<img src="Componentes.jpeg" width="100">
+</p>
+
+
+<body>
+<html>
